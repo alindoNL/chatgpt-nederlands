@@ -30,3 +30,6 @@ Pre-trained: Dit betekent dat het model is vooraf getraind op een enorme hoeveel
 Transformer: Dit verwijst naar de architectuur van het neurale netwerk dat wordt gebruikt in GPT-modellen. De transformer-architectuur maakt gebruik van aandachtmechanismen en parallelle verwerking om lange-afstandsrelaties in tekst te begrijpen en te verwerken, wat het model zeer effectief maakt in het begrijpen van context en het genereren van samenhangende tekst.
 
 Samengevat combineert GPT in ChatGPT
+
+
+Het is belangrijk op te merken dat hoewel ChatGPT buitengewoon krachtig is in het begrijpen en genereren van tekst, het niet altijd perfect is. 
